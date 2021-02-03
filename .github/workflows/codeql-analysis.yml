@@ -1,7 +1,7 @@
 name: "Code scanning - action"
 
 on:
-  schedule:'
+  delete:
 
 jobs:
   CodeQL-Build:
